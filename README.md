@@ -6,6 +6,9 @@ User can select a place of their choice from maps. Once it is selected, the app 
 There is also a change location button for changing the location for which the weather forecast the user wants to see.
 
 
+
+
+
 The user selects a location from the Map.
 
 
