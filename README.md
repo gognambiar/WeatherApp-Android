@@ -8,10 +8,14 @@ There is also a change location button for changing the location for which the w
 
 The user selects a location from the Map.
 
+
 ![header image](https://github.com/gognambiar/WeatherApp-Android/blob/master/weather1.png)
+
 
 ![header image](https://github.com/gognambiar/WeatherApp-Android/blob/master/weather2.png)
 
+
 The Weather forecats for the week are displayed with an option to change the location.
+
 
 ![header image](https://github.com/gognambiar/WeatherApp-Android/blob/master/weather3.png)
